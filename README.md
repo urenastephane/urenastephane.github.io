@@ -1,2 +1,2 @@
 # urenastephane.github.io
-dataviz
+data visualization project carried out at ENSAE with my colleague Ajerbi
